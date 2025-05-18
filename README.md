@@ -5,6 +5,10 @@ Bu proje, Windows işletim sisteminde çalışan kullanıcıların sistemlerini 
 📦 Proje GitHub Sayfası:
 https://github.com/ebubekirbastama/ebs-python-guvenlik-ve-izleme-araci
 
+<hr>
+
+![EBS](https://raw.githubusercontent.com/ebubekirbastama/ebs-python-guvenlik-ve-izleme-araci/refs/heads/main/ebs%20g%C3%BCvenlik%20tool.png)
+
 🚀 Özellikler:
 -------------
 
